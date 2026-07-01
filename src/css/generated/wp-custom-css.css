@@ -1,0 +1,17 @@
+
+			.wpcf7-submit{
+background-color:rgb(21,115,112)!important;
+color:white!important;
+border:none;
+padding:20px;
+}
+
+.wpcf7-text {
+    max-height: 15px!important;
+}
+
+html { 
+  scroll-behavior: smooth;
+}
+
+		
