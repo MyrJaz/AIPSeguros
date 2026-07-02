@@ -23,6 +23,7 @@ module.exports = [
     contentFile: "conocenos.html",
     outputDir: "conocenos",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-05\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\t \t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs"],
   },
   {
     slug: "contacto",
@@ -45,6 +46,7 @@ module.exports = [
     contentFile: "aip-plus.html",
     outputDir: "aip-plus",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-06\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\tAIP + PLUS\t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs", "roundChart"],
   },
   {
     slug: "gastos-medicos",
@@ -56,6 +58,7 @@ module.exports = [
     contentFile: "gastos-medicos.html",
     outputDir: "gastos-medicos",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-06\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\tGastos Médicos\t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs"],
   },
   {
     slug: "seguro-de-autos",
@@ -67,6 +70,7 @@ module.exports = [
     contentFile: "seguro-de-autos.html",
     outputDir: "seguro-de-autos",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-06\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\tSeguro de Autos\t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs"],
   },
   {
     slug: "seguro-empresarial",
@@ -78,6 +82,7 @@ module.exports = [
     contentFile: "seguro-empresarial.html",
     outputDir: "seguro-empresarial",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-06\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\tSeguro Empresarial\t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs"],
   },
   {
     slug: "seguro-para-motocicletas",
@@ -89,6 +94,7 @@ module.exports = [
     contentFile: "seguro-para-motocicletas.html",
     outputDir: "seguro-para-motocicletas",
     titleBar: "<div id=\"page-title-bar\" class=\"page-title-bar page-title-bar-06\">\n\t<div class=\"page-title-bar-overlay\"></div>\n\n\t<div class=\"page-title-bar-inner\">\n\t\t<div class=\"container\">\n\t\t\t<div class=\"row row-xs-center\">\n\t\t\t\t<div class=\"col-md-12\">\n\t\t\t\t\t\t\t<div class=\"page-title-bar-heading\">\n\t\t\t<h1 class=\"heading\">\n\t\t\t\tSeguro para Motocicletas\t\t\t</h1>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\n\t\t\t</div>\n</div>",
+    vcComponents: ["tabs"],
   },
   {
     slug: "aviso-de-privacidad",
