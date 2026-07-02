@@ -55,7 +55,7 @@ for (const page of pages) {
   const html =
     fillTemplate(headMeta, vars) +
     fillTemplate(header, vars) +
-    content +
+    fillTemplate(content, vars) +
     fillTemplate(footer, vars);
 
   const outDir = path.join(ROOT, page.outputDir);
